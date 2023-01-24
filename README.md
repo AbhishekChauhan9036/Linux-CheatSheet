@@ -1,4 +1,4 @@
-# Linux-cheat-sheet
+# Linux-cheat-sheet.
 
 > Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [@AbhishekChauhan9036](https://www.linkedin.com/in/abhishek-chauhan-10b4991b8/) for technical updates.
 
